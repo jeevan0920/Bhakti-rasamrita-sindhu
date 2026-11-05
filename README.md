@@ -22,6 +22,20 @@ Two documents:
 - Verse citations follow the numbering of the *Nectar of Devotion* summary study (division.chapter.verse), not the Sanskrit edition.
 - The source text itself is not tracked here: it is third-party material and reproducible from [archive.org](https://archive.org/details/sribhaktirasamritasindhunectarofdevotion).
 
+## Getting the source text
+
+```bash
+./scripts/fetch-source.sh   # writes nod.txt (gitignored)
+```
+
+Requires `curl` and `python3`. The script verifies that it extracted a
+plausible amount of text and fails loudly if archive.org changes its format.
+
+## Licence
+
+Prose is CC BY-SA 4.0; scripts are MIT. See [LICENSE](LICENSE). The source
+text is not covered — it belongs to the Bhaktivedanta Book Trust.
+
 ## Status
 
 Draft for śāstric review. Nothing here has been built.
