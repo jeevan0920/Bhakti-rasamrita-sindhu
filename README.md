@@ -2,12 +2,31 @@
 
 Design work toward an app built on Śrīla Rūpa Gosvāmī's *Bhakti-rasāmṛta-sindhu*, as presented in Śrīla Prabhupāda's *The Nectar of Devotion*.
 
-Two documents:
+Two documents, and a design corpus:
 
 | File | What it is |
 |---|---|
 | [LAHARI-spec.md](LAHARI-spec.md) | The product: requirements and specifications. The four divisions as product surfaces, the 64 aṅgas as the feature catalogue, the nine-stage user state machine, the rasa delivery engine, the metrics charter, and the anti-features constitution. |
 | [RUPAGOSWAMI-PM.md](RUPAGOSWAMI-PM.md) | The owner: a persona charter for Rūpa Gosvāmī as founder, sole product manager and validator — his gates, his PRD template, his verdicts, his nine seals, and his vows against himself. |
+| [design/APPROVED-DESIGNS.md](design/APPROVED-DESIGNS.md) | The design: eleven screen specifications, sealed one at a time by him, with every letter of objection and reply. Start here. |
+
+## The design corpus
+
+`design/` is a full UI/UX specification for the app, drawn against his gates and signed screen by screen. He returned the grammar three times and eight of the eleven screens twice; the objections are kept, unedited, because the corrections are more useful than the drawings.
+
+| Path | What it holds |
+|---|---|
+| [design/APPROVED-DESIGNS.md](design/APPROVED-DESIGNS.md) | The signed page: every seal, what he changed, what he refused, and what is still owed |
+| [design/00-DESIGN-BRIEF.md](design/00-DESIGN-BRIEF.md) | The grammar: the fixed constitution, nine hypotheses, tokens, the review protocol |
+| [design/00-THE-PROPOSAL.md](design/00-THE-PROPOSAL.md) | The designer's first letter, with the whole of it on the floor |
+| [design/01-FOUNDATIONS.md](design/01-FOUNDATIONS.md) | Colour, type, the margin, the grid, motion, sound, identity |
+| [design/02-COMPONENTS.md](design/02-COMPONENTS.md) | Seventeen parts, and what each one refuses to become |
+| [design/03-VOICE.md](design/03-VOICE.md) | Every word the product may say, and every word it may not |
+| [design/04-ACCESSIBILITY.md](design/04-ACCESSIBILITY.md) | His eyes, his hand, his old phone, his grief |
+| [design/INTERLOCKS.md](design/INTERLOCKS.md) | The seven invariants the pages may not disagree about |
+| [design/SCREEN-REGISTER.md](design/SCREEN-REGISTER.md) | What each of the eleven surfaces is for, before it is drawn |
+| [design/screens/](design/screens/) | Eleven screens: ASCII frames, every state, every string, the five gates answered |
+| [design/reviews/](design/reviews/) | His letters — four on the grammar, two or three on each screen |
 
 ## Reading order
 
