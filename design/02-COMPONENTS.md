@@ -315,7 +315,7 @@ The act's label is centred at x=239, the act's own centre, not at 195. 195 was t
 
 **The copy it may contain.** Nothing by default. When he chose the numeral before he sat, it is a numeral and no word; the setting is made in the closing surfaces at S-10 and cannot be changed during the sitting (S-03 §5 [H], §11 refusal 3). The one sentence in the product that belongs to this part is in the setting: "The bead may be shown." — and its opposite, "The bead is not shown."
 
-**It refuses to** show a total of rounds on any other screen; to say *sixteen rounds complete*; to keep a streak, a best day, or a monthly figure; to vibrate for a completed round, since a round is marked nowhere; to light the glass, because the glass stays awake and dark for the whole sitting; to count a glass laid face-down, because a glass on its face is a door with the handle on the other side and no handset in the reference range reports a touch through its back — the posture the screen asks for is face-up, in the hand or flat on the quilt, and the count does not depend on which of those it is (S-03 §5 [A], §10 test 1).
+**It refuses to** show a total of rounds on any other screen; to say *sixteen rounds complete*; to keep a streak, a best day, or a monthly figure; to vibrate for a completed round, since a round is marked nowhere; to light the glass, because the glass stays awake and dark for the whole sitting. The posture the screen asks for is face-up, in the hand or flat on the quilt, and the count does not depend on which of those it is: a glass on its face is a door with the handle on the other side, and no handset in the reference range reports a touch through its back (S-03 §5 [A], §10 test 1).
 
 ## 8 · dīpa — the Lamp, the offering
 **Job.** To let a man put something down in front of the Deity, and to tell nobody.  **Aṅga.** 49, offering everything to the Lord (`BRS 1.2.74–95`). On the ārati screen the hour belongs to 42, and the hand that offers belongs to 49. This is **the second photograph** in the product; the first is the form (part 17), which is what the offering is made in front of.
@@ -432,7 +432,7 @@ The act's label is centred at x=239, the act's own centre, not at 195. 195 was t
 
 **Tokens.** three sizes, 18, 24 and 36, and no fourth: 18 in the margin at 100% and 200%, 24 at the foot of the block at 300%, 36 on the provenance floor · 1.5pt stroke, `--ink` on `--paper`, `--moon` on `--kunda` · 24pt clear of any text · never filled, never tinted, never shadowed · the same drawing at all three sizes, at the same stroke.
 
-**The arithmetic of the 24, and why it is neither 18 nor 54.** At 300% the locator and the ordinal beside the seal are set at 54, and the seal is not type: a square that followed them would be 54 × 54 = 2,916 square points, nine times the 18pt square's 324, and a field rather than a stamp; a square that stayed 18 would be one third of the 54pt letter and would read as a tick. The step between is 24, the part's own clear space, and 24 × 24 = 576: 576 − 324 = 252, and 576 ÷ 324 = 1.78, so the square's area grows by 78 per cent while the letter beside it grows by 200. The 36 on the provenance floor is 36 × 36 = 1,296 square points, and it is not this state's: it is the mark that may be followed by a name and a date. So three sizes — 18, 24, 36 — and no fourth. I1 and 04 A5 carry the 24; this page and 04 A5 now agree, and 04 A5 must be checked against this row.
+**The arithmetic of the 24, and why it is neither 18 nor 54.** At 300% the locator and the ordinal beside the seal are set at 54, and the seal is not type: a square that followed them would be 54 × 54 = 2,916 square points, nine times the 18pt square's 324, and a field rather than a stamp; a square that stayed 18 would be one third of the 54pt letter and would read as a tick. The step between is 24, the part's own clear space, and 24 × 24 = 576: 576 − 324 = 252, and 576 ÷ 324 = 1.78, so the square's area grows by 78 per cent while the letter beside it grows by 200. At 100% the 18 sits at x 30–48 in the margin's 56: 30 + 18 = 48, and 56 − 48 = 8 of air to the hairline, so the square fits the band and does not set its width. The 36 on the provenance floor is 36 × 36 = 1,296 square points, and it is not this state's: it is the mark that may be followed by a name and a date. So three sizes — 18, 24, 36 — and no fourth. I1 and 04 A5 carry the 24; this page and 04 A5 now agree.
 
 | State | What it does |
 |---|---|
@@ -910,3 +910,13 @@ Eight returns were run against this document. Four are edits at the place the re
 No screen moved to a page, and no screen was edited. `01` §17 records the four returns that fell on that page: the bead, the seal, the pāda and the broken word.
 
 — the designer, Day 51
+
+---
+
+## 27 · Day 54 — one corpus, the last six
+
+Six facts were returned twice. Four are this page's. Three stood at the place named when this pass opened: §16 draws no mark for the note and takes it by the act's own verb held; §11 prints the seal at 18 × 18 at 100% and 200% and 24 × 24 at 300%, with the arithmetic of the 24 — 324, 576, 252, 1.78 — and the 18's place at 30–48 in the margin's 56; §5, §9 and §18 name the threshold's *the day* beside the clock's *the name*, the reading screen's *close* and the name's *the day*. The fourth, §7, ended a round at the press already — 108 + 1 = 109, the mark zero — with the glass awake and dark, but it still refused a face-down posture; it now states the screen's posture, face-up in the hand or flat on the quilt, with the face-down sentence struck.
+
+The two that are `03`'s are carried there: the sealed label at §7.9 and the bereaved stop at §7.4. The one page that still printed a mark for the note was `04`, and its §3.1, §3.2 and test 21 now print two places on S-07's band, the note as the act's verb held, and the bell as the ārati's 48 that is never essential; A5 and §2.3 carry the seal's 24 × 24 at the foot of the block. No screen moved; the edits above are §7's posture sentence and §11's margin sentence, and no other part of this document moved.
+
+— the designer, Day 54

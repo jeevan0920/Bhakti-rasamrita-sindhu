@@ -112,6 +112,8 @@ His release tests, applied to this corpus rather than to a build.
 
 He sealed the screens. He did not pretend the corpus is finished, and neither does this page.
 
+The live version of this table is `OPEN-BEFORE-BUILD.md`, which carries the same debts one by one, together with the two sittings he demanded and the six duplicated facts closed on Day 54.
+
 | Owed | Whose | Why it is not closed here |
 |---|---|---|
 | A named translator and a named reviewer | Content, not design | Every chain in the corpus prints *translator unnamed · reviewer unnamed*, because no person has signed. He would rather print the absence than a name that was never asked |

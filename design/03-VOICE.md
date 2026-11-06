@@ -446,7 +446,7 @@ The host marks it, and the mark is a fact entered by a person. The app's part is
 
 > The room is closed.
 
-The death stands in the head, where the host's name stood; *The room is closed.* is the thread's first line, and the names that were in it stand under it. The two are also the spoken stop 2, in that order. The band holds the door alone, and the door says *close*. The room's bells are off while the room is closed, and the app does not say so, because an announcement of the app's own tact is a performance of it.
+The death stands in the head, where the host's name stood; *The room is closed.* is the thread's first line, and the names that were in it stand under it. The two are also the spoken stop 2, in that order. The hour is not spoken at any stop: the room's own hour is not kept in the bereaved state, and no stop says when the room sits or that it is waiting. The band holds the door alone, and the door says *close*. The room's bells are off while the room is closed, and the app does not say so, because an announcement of the app's own tact is a performance of it.
 
 Not said: *Our condolences*, *In loving memory*, *Gone to a better place*, *Share a memory*, a black band, a ribbon, a lotus, a lit candle drawn in `--lamp`, which would break the second law of colour for the worst possible reason.
 
@@ -688,6 +688,8 @@ Nothing else in this document moved in R5. §1's register, §2's banned list and
 The two pre-lines S-11 counted at 25 words are cut to 23: the notification's loses *at most*, because *three times a day* is already the cap, and the storage's reads *The corpus's text* where *The text of the corpus* was five words for three. Both are inside §4.1's 24 words, and the microphone's is 21. The counts in this document are of its own sentences, and a sentence that runs past its own ceiling is the first fault a reader finds.
 
 The interlocks at the foot of this document carry the same four moves: I1's square is placed at the foot, I3 keeps the one 2pt exception, I4 prints the widths and the four words, and I6 names the two surfaces that may move and the rest that may not.
+
+**Day 54 — one corpus, the last six.** Six facts were returned twice. Two are this document's, and both stood at the place named before this pass: §7.9 prints the sealed label once — `S07.label.sealed` and `S07.crisis.kept`, 38 characters and 7 words — and no second register stands beside it; §7.4 prints *Kamalā has died.* then *The room is closed.*, the two sentences S-06 §8 speaks at stop 2, and now carries the screen's note that the hour is not spoken at any stop. No sealed string moved here; the hour's note is prose, not a string. The other four are `02`'s and `04`'s, and this page names where they stand: §16's note has no mark and is the act's verb held; §11's seal is 18 × 18 at 100% and 200% and 24 × 24 at 300%; §5, §9 and §18 carry the threshold's *the day* beside the other three; and §7's round ends at the press with the glass awake and dark. The one page that still printed a mark for the note was `04` §3.1 and §3.2 and its test 21, and that page now agrees.
 
 ---
 

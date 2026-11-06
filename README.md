@@ -25,6 +25,7 @@ Two documents, and a design corpus:
 | [design/04-ACCESSIBILITY.md](design/04-ACCESSIBILITY.md) | His eyes, his hand, his old phone, his grief |
 | [design/INTERLOCKS.md](design/INTERLOCKS.md) | The seven invariants the pages may not disagree about |
 | [design/SCREEN-REGISTER.md](design/SCREEN-REGISTER.md) | What each of the eleven surfaces is for, before it is drawn |
+| [design/OPEN-BEFORE-BUILD.md](design/OPEN-BEFORE-BUILD.md) | The gate page: what he left owing, the two sittings he demanded, and what is closed |
 | [design/screens/](design/screens/) | Eleven screens: ASCII frames, every state, every string, the five gates answered |
 | [design/reviews/](design/reviews/) | His letters — four on the grammar, two or three on each screen |
 
