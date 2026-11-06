@@ -146,9 +146,9 @@ Six surfaces, no more. A seventh would be a symptom of drift.
 Each feature names the aṅga it implements, its behaviour, its constraints, and acceptance criteria (AC). Constraints are binding on engineering; they are not guidelines.
 
 ### F1 · Nitya-sevā — the day clock
-*Aṅgas: 8, 26, 29, 42, 58, 59.*
-A 24-hour ring anchored to the Vaiṣṇava calendar and the traditional eight *aṣṭa-kāla* junctions. Shows the next act — maṅgala-ārati, japa, śrīmad-bhāgavatam, rāja-ārati, sandhyā, before rest. Tapping opens a 3–7 minute guided act; completing it closes the ring segment.
-**Constraints:** no countdown timers except the next ārati; no "you missed" state; missed segments simply dim.
+*No aṅga; the authority is the day. Corrected Day 51 to agree with S-02 as sealed: the six aṅgas this header carried were struck on R-02 §1, and the acts the clock opens are doors to their own limbs.*
+A 24-hour ring anchored to the Vaiṣṇava calendar and the traditional eight *aṣṭa-kāla* junctions. Shows the next act — maṅgala-ārati, japa, śrīmad-bhāgavatam, rāja-ārati, sandhyā, before rest. Two of the eight junction hours carry no act and are drawn as silences, so the ring never closes. Tapping opens a 3–7 minute guided act; completing it closes the ring segment.
+**Constraints:** no countdown timers at all, not even the next ārati; no "you missed" state; a missed junction is a shape that is not there, never a colour that is.
 **AC:** a user can complete a full day in under 20 minutes total. Missing the whole day produces zero red UI and one optional, non-accusatory line the next morning.
 
 ### F2 · Nāma — japa and kīrtana
@@ -194,12 +194,14 @@ Recipes, offering etiquette, festival cooking, a "what to offer tonight" suggest
 
 ### F9 · Ācārya — the authority layer
 Every claim, translation, and instruction carries provenance: author, work, chapter, verse, translator, reviewer, date. A single tap shows the chain.
-**Constraints:** no unattributed content, no anonymous "wisdom" cards, no AI-generated doctrine.
+*Corrected Day 51 to agree with S-09 as sealed.* The app opens no path around the gate: search, a deep link, a bookmark, a stale notification, a shared link, a QR, a browser, a screenshot, a festival day, thirty days offline, the room and the app's own clock all resolve to S-09, and no gated row is on the phone before the gate opens. The thirteenth path — a line of the opened reading remembered and typed into a thread — is a man's hand, and no build shuts it. Seal III stands whole in the charter; this is the part of it a build can keep.
+**Constraints:** no unattributed sentence, no anonymous "wisdom" cards, no AI-generated doctrine, and no path around the gate that the app opens.
 **AC:** 100% of content rows resolve to a reviewer and a locator; the build fails if any row does not.
 
 ### F10 · Anartha — the private audit
-*Aṅgas: 5, 6, 9, 10, 15, 19; chapters 8 and 9 (offences).*
-A weekly, private, five-question self-review in the user's own words — not a score. Surfaces the classical categories (prohibited action, bad association, offence, weakness of heart) as *vocabulary*, not as diagnosis.
+*Aṅgas: 5, 6, 10, 15, 19; chapters 8 and 9 (offences).*
+*Corrected Day 51 to agree with S-08 as read: the count was reduced from five questions and a week to four and no week on the screen's own reasoning — aṅga 9, the fast, is ekādaśī's, a page that reads no calendar would ask it at the wrong tide every day, and a rule is not less a rule for arriving as a question; and a page that keeps nothing cannot know a week has passed, so it has no week and no bell. The change is shown here, not made silently.*
+A private, four-question self-review in the user's own words, with no week and no bell — not a score. Surfaces the classical categories (prohibited action, bad association, offence, weakness of heart) as *vocabulary*, not as diagnosis.
 **Constraints:** no streak, no percentile, no comparison, no "improvement graph." The output is a sentence the user writes, not a number the app computes.
 **AC:** the feature can be used indefinitely without the app ever asserting a judgement about the user.
 
